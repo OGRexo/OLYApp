@@ -16,20 +16,21 @@ class EditorData
 	};
 	class Camera
 	{
-		pos[]={3623.7285,45.097626,13104.028};
-		dir[]={-0.025372079,-0.48424318,-0.87460399};
-		up[]={-0.014042161,0.87491125,-0.48406386};
-		aside[]={-0.99961108,-1.6146805e-007,0.029001726};
+		pos[]={3642.2783,14.547595,13121.422};
+		dir[]={0.0053388667,-0.69955426,-0.71455956};
+		up[]={0.0052266084,0.71457946,-0.69953477};
+		aside[]={-0.99997211,0,-0.0074713407};
 	};
 };
 binarizationWanted=0;
-sourceName="olyDev";
+sourceName="OLYApp";
 addons[]=
 {
 	"A3_Characters_F_Exp_Civil",
 	"A3_Weapons_F_Mark_LongRangeRifles_DMR_03",
 	"A3_Weapons_F_Acc",
 	"A3_Weapons_F",
+	"olympusClient",
 	"A3_Characters_F",
 	"A3_Characters_F_Exp",
 	"A3_Weapons_F_Items",
@@ -52,7 +53,7 @@ class AddonsMetaData
 {
 	class List
 	{
-		items=13;
+		items=14;
 		class Item0
 		{
 			className="A3_Characters_F_Exp";
@@ -76,68 +77,75 @@ class AddonsMetaData
 		};
 		class Item3
 		{
+			className="A3_Weapons_F_Exp";
+			name="Arma 3 Apex - Weapons and Accessories";
+			author="Bohemia Interactive";
+			url="https://www.arma3.com";
+		};
+		class Item4
+		{
 			className="A3_Characters_F";
 			name="Arma 3 Alpha - Characters and Clothing";
 			author="Bohemia Interactive";
 			url="https://www.arma3.com";
 		};
-		class Item4
+		class Item5
 		{
 			className="A3_Soft_F_Gamma";
 			name="Arma 3 - Unarmored Land Vehicles";
 			author="Bohemia Interactive";
 			url="https://www.arma3.com";
 		};
-		class Item5
+		class Item6
 		{
 			className="A3_Air_F";
 			name="Arma 3 Alpha - Aircraft";
 			author="Bohemia Interactive";
 			url="https://www.arma3.com";
 		};
-		class Item6
+		class Item7
 		{
 			className="A3_Soft_F";
 			name="Arma 3 Alpha - Unarmored Land Vehicles";
 			author="Bohemia Interactive";
 			url="https://www.arma3.com";
 		};
-		class Item7
+		class Item8
 		{
 			className="A3_Soft_F_Exp";
 			name="Arma 3 Apex - Unarmored Land Vehicles";
 			author="Bohemia Interactive";
 			url="https://www.arma3.com";
 		};
-		class Item8
+		class Item9
 		{
 			className="A3_Ui_F";
 			name="Arma 3 - User Interface";
 			author="Bohemia Interactive";
 			url="https://www.arma3.com";
 		};
-		class Item9
+		class Item10
 		{
 			className="A3_Characters_F_Enoch";
 			name="Arma 3 Contact Platform - Characters and Clothing";
 			author="Bohemia Interactive";
 			url="https://www.arma3.com";
 		};
-		class Item10
+		class Item11
 		{
 			className="A3_Supplies_F_Exp";
 			name="Arma 3 Apex - Ammoboxes and Supplies";
 			author="Bohemia Interactive";
 			url="https://www.arma3.com";
 		};
-		class Item11
+		class Item12
 		{
 			className="A3_Structures_F_Mil";
 			name="Arma 3 - Military Buildings and Structures";
 			author="Bohemia Interactive";
 			url="https://www.arma3.com";
 		};
-		class Item12
+		class Item13
 		{
 			className="A3_Characters_F_Patrol";
 			name="Arma 3 Patrol - Characters and Clothing";

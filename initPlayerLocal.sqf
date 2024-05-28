@@ -78,3 +78,12 @@ player addAction
 	"",
 	""
 ];
+
+player addAction ["Use Drug",JDEV_fnc_playerOverdose,nil,1.5,true,true,"","Vest player == 'V_PlateCarrierIA1_dgtl'"]; 
+
+
+
+
+
+
+

@@ -11,5 +11,6 @@ class Client_Core {
 		class drugRun{};
 		class drugRunDrop{};
 		class initDrugRunNpc{};
+		class playerOverdose{};
 	};
 };
